@@ -20,7 +20,7 @@ image
 image
 📌 Clonando e rodando a aplicação:
 
-1 - Clone o repositório $ git clone https://github.com/williamfirmino92/todo_app.git
+1 - Clone o repositório $ git clone https://github.com/alanfariasz/01-projeto_bancario
 
 2 - Entre no repositório $ cd ProjetoMod5
 
