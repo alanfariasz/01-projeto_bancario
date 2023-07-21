@@ -1,15 +1,15 @@
 # 01-projeto_bancario
 
-Projeto Resília - TODO
+Projeto Forsoft - Sistema Bancário
 🚀 Finalidade
 
-O projeto é a conclusão de aprendizados do módulo V da RESÍLIA EDUCAÇÃO. Nele, fomos orientados a estar desenvolvendo um aplicativo dinâmico completo de tarefas.
+O projeto é a conclusão de aprendizados da Unidade Curricular I do projeto Forsoft pelo Senac RJ. Nele, fomos orientados a desenvolver um sistema bancário com  as operações de depósito, saque, extrato, além da saída do programa.
 📦 Desenvolvimento
 
 📌 Link do site que tive como base : https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW
 📋 Tecnologias utilizadas
 
-Will-Js Will-React Will-HTML Will-CSS Will-FIGMA Will-VSCODE Will-NODE
+Will-Js  Will-HTML Will-VSCODE 
 📄 O Site
 
 image
