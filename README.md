@@ -26,4 +26,4 @@ image
 
 3 - Rode a aplicação $ yarn run dev ou npm start / npm run build Abra http://localhost:3000 para ver a aplicação funcionando
 
-⌨️ com ❤️ por William Firmino 😊
+⌨️ com ❤️ por Alan Farias 😊
